@@ -7,6 +7,8 @@
         "core": "*"
     },
     "files": [
+        "main.blocks",
+        "main.ts",
         "README.md",
         "i2crr.ts",
         "i2crr.cpp",
