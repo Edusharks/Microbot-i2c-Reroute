@@ -26,7 +26,7 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "authors": [
         "Bill Siever <bsiever@gmail.com>"
     ],
